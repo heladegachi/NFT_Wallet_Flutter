@@ -1,16 +1,14 @@
-# flutter_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Cloning of a Dribbble design. </h1> 
+<h4>The Dribble design:</h4> 
+<br>
+<p align="center">
+<img src="assets/images/nft_wallet_dribble_design.png" height="550" title="hover text"> 
+ </p>
+  
+<h4>Screenshots from the Emulator:</h4>
+  
+<br>
+ <p align="center">
+  <img src="assets/images/First_page.png" width="350" title="hover text">
+  <img src="assets/images/Details_page.png" width="350" alt="accessibility text">
+</p>
